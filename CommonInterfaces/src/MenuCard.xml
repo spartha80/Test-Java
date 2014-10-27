@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menucard>
+ <menuitem>
+    <id>1</id>>
+    <name>Tomato Soup</name>
+    <price>50.00</price>>
+ </menuitem>
+ <menuitem>
+    <id>2</id>>
+    <name>Sweet Corn Soup</name>
+    <price>50.00</price>>
+ </menuitem>
+ <menuitem>
+    <id>3</id>>
+    <name>French Onion Soup</name>
+    <price>75.00</price>>
+ </menuitem>
+ <menuitem>
+    <id>4</id>>
+    <name>Tomato Soup</name>
+    <price>50.00</price>>
+ </menuitem>
+ <menuitem>
+    <id>5</id>>
+    <name>Coleslaw Sandwich</name>
+    <price>75.00</price>>
+ </menuitem>
+ <menuitem>
+    <id>6</id>>
+    <name>Pasta</name>
+    <price>100.00</price>>
+ </menuitem>
+ <menuitem>
+    <id>7</id>>
+    <name>Burger</name>
+    <price>75.00</price>>
+ </menuitem> 
+ <menuitem>
+    <id>8</id>>
+    <name>Ice Tea</name>
+    <price>45.00</price>>
+ </menuitem> 
+ <menuitem>
+    <id>9</id>>
+    <name>Lime</name>
+    <price>40.00</price>>
+ </menuitem> 
+ <menuitem>
+    <id>10</id>>
+    <name>Bottled Water</name>
+    <price>25.00</price>>
+ </menuitem> 
+</menucard>
+

@@ -1,4 +1,0 @@
-INDEX VERSION 1.126+/home/sudarshan/code/java/Test-Java/.metadata/.plugins/org.eclipse.jdt.core
-2042627449.index
-4245063493.index
-1643065282.index
